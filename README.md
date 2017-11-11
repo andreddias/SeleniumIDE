@@ -1,4 +1,4 @@
-# seleniumIDE
+# Selenium IDE
 
 Alguns exemplos de código para utilizar no Selenium IDE, com JavaScript
 
