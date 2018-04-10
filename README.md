@@ -14,4 +14,4 @@ Uma mão na roda para testes repetitivos, com um gasto de tempo mínimo para faz
 
 2.No firefox abra o selenium IDE.
 
-3.Abra o html salvo no passo 1 e execute direto na página que você precise.
+3.Abra o html salvo do passo 1 e execute.
