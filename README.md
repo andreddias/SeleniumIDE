@@ -10,6 +10,8 @@ Alguns exemplos de código para utilizar no Selenium IDE, com JavaScript
 
 Uma mão na roda para testes repetitivos, com um gasto de tempo mínimo para fazer e um ganho absurdo de tempo nos seus testes. Também é possível passar esse script junto ao bug para facilitar o trabalho do desenvolvedor.
 
-1.Salve o arquivo html editando os campos que desejar;.
+1.Salve o arquivo html editando os campos que desejar.
+
 2.No firefox abra o selenium IDE.
+
 3.Abra o html salvo no passo 1 e execute direto na página que você precise.
